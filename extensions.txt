@@ -1,0 +1,10 @@
+Subtitle Match Brackets
+Rainbow csv
+Python
+pretties
+Material Icon Theme
+Markdown Preview Github Styling
+Live Server
+Jupyter Notebook Renderers
+Indenticator
+Auto rename tag
